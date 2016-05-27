@@ -1,0 +1,15 @@
+{
+  "name": "texen-utils",
+  "description": "Texen (Texture Engine) utils",
+  "main": "index.js",
+  "authors": [
+    "Jan Forst <ensonador@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "devDependencies": {
+    "lodash": "~3.10.1"
+  }
+}
